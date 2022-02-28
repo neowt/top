@@ -1,3 +1,6 @@
 [submodule "proj"]
 	path = proj
 	url = https://github.com/neowt/proj.git
+[submodule "ip/ip_a"]
+	path = ip/ip_a
+	url = https://github.com/neowt/ip_a.git
